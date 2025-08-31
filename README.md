@@ -5,7 +5,8 @@
 *DOMAIN*:MACHINE LEARNING
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH
-Description of the Task: Decision Tree Implementation on the Iris Dataset
+
+##Description of the Task: Decision Tree Implementation on the Iris Dataset
 
 The task presented here involves the implementation of a Decision Tree Classifier on the well-known Iris dataset, a classic dataset widely used in machine learning and statistical modeling. The objective is to build a supervised learning model capable of classifying flowers into their respective species based on their physical measurements. This process includes several steps, namely loading the dataset, preprocessing, training and testing the model, evaluating its performance, and visualizing the results. Each step contributes to building a deeper understanding of how decision trees work and how they can be applied to real-world problems.
 
@@ -44,5 +45,6 @@ Conclusion
 The Decision Tree Classifier implemented on the Iris dataset achieved a good balance of accuracy and interpretability. It successfully classified the flowers based on their morphological features, demonstrating the power of decision trees as a simple yet effective classification tool. This task not only illustrated the practical steps involved in machine learning model development—such as data preprocessing, model training, evaluation, and visualization—but also emphasized the importance of interpretability in model selection. The Iris dataset remains an excellent starting point for beginners in machine learning, and decision trees provide a clear and insightful way of approaching classification problems.
 
 #output
+<img width="622" height="697" alt="Image" src="https://github.com/user-attachments/assets/1078a4a2-0d59-4f63-8cec-e0f0ea9c5fae" />
 
 
